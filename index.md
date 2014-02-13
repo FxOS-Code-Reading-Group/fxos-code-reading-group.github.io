@@ -23,7 +23,7 @@ iOS, Android に続く第三のモバイル OS の一つ Firefox OS。そんな 
 ### コードを読みたい！
 Firefox OS のコードを全文検索するための OpenGrok を運営しています。
 
-- <http://157.7.154.97/source/>
+- <http://reading.fxos.org/source/>
 
 コードを読む上で参考になる資料やメモをドキュメントに追加しています。
 
