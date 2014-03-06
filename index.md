@@ -27,6 +27,3 @@ Firefox OS のコードを全文検索するための OpenGrok を運営して�
 
 コードを読む上で参考になる資料やメモをドキュメントに追加しています。
 
-当コミュニティでは GMO インターネット様よりコミュニティ支援として ConoHa VPS の提供を受けています。 
-ConoHa についてはこちら <http://www.conoha.jp/community>
-
