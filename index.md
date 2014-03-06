@@ -25,5 +25,5 @@ Firefox OS のコードを全文検索するための OpenGrok を運営して�
 
 - <http://reading.fxos.org/source/>
 
-コードを読む上で参考になる資料やメモをドキュメントに追加しています。
+また、コードを読む上で参考になる資料やメモを GitHub の [FxOS-Code-Reading-Group](https://github.com/FxOS-Code-Reading-Group/MainRepo/wiki) に追加しています。
 
