@@ -34,7 +34,7 @@ image:
 
 <div ng-app="evtApp" ng-controller="EventListCtrl">
 {% raw %}
-<div class="event" ng-repeat='evt in events track by $index'>
+<div class="event" ng-repeat="evt in events | orderBy:'from':true">
 	<a class="event-title" href="{{evt.url}}" target="_blank">{{evt.title}}</a>
 	<div class="event-date">
 		日時:<div>{{evt.from|date:'yyyy/MM/dd HH:mm'}}</div>-
