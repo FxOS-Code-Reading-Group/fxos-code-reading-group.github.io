@@ -21,11 +21,11 @@ links:
   - title: ドキュメント
     url: https://github.com/FxOS-Code-Reading-Group/MainRepo/wiki
     external: true
-  - title: メンバー
-    url: /members
   - title: Facebook
     url: https://www.facebook.com/groups/fxos.code.reading/
     external: true
+  - title: About
+    url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Japan
