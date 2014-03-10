@@ -12,8 +12,8 @@ image:
 	border: 1px gray solid;
 	margin-bottom: 12px;
 	padding: 8px;
-	height: 140px;
-	overflow: scroll;
+	height: auto;
+	overflow: auto;
 	font-size: .8rem;
 }
 .event-title {
