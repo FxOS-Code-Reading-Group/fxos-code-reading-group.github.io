@@ -51,7 +51,7 @@ image:
 <script>
 var app = angular.module('evtApp', []);
 app.controller('EventListCtrl', function($scope, $http) {
-	var eventURL = 'http://reading.fxos.org:3001/events/gcal';
+	var eventURL = 'http://reading.fxos.org/api/events/gcal';
 	$http({method: 'GET', url: eventURL, responseType: 'json'}).
 	success(function(data, status) {
 		var events = [];
